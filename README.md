@@ -1,6 +1,6 @@
 # Hi there, I'm Ketan Hiray 👋
 ## 💼Senior Software Engineer with 5+ years of experience                                                                                                                                                        
-🚀 Enthusiast in DevOps Engineering                                                                                                                                                                                    
+## 🚀 Enthusiast in DevOps Engineering                                                                                                                                                                                    
 
 ## 🔧 Work Expertise:                                                                                                                                                                                                     
 
