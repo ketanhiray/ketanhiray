@@ -1,3 +1,10 @@
+<HTML>
+  <body>
+    <head>
+      <meta name="google-site-verification" content="l_-Uxc-_-hlcDdY-s32gJJ2ccK-LSlV_J8tLc_SrV0U" />
+    </head>
+  </body>
+</HTML>
 <h1 align="center">Hi 👋, I'm Ketan Hiray</h1>
 <h3 align="center">Senior Software Engineer and DevOps Enthusiast</h3>
 
