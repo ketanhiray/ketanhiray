@@ -17,7 +17,7 @@
 - Worked as a **ReactJS Developer** for a project.
 - Led a team as a **Team Lead** for a project.
 - Worked on the **ITSM Project**.
-- Specialized in **JMeter** and **Jenkins** for performance testing and automation.
+- Specialized in **JMeter** and **Jenkins** for  Load & Performance and automation.
 - Managed and optimized performance on **Linux** systems.
   
 
