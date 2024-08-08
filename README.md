@@ -1,6 +1,4 @@
-<html>
-  <head><meta name="google-site-verification" content="Jzs1BJZ1xZqlckSV8uJskrt4Xsj3u0XXiDepCeZsZqI" /></head>
-</html>
+
 <h1 align="center">Hi 👋, I'm Ketan Hiray</h1>
 <h3 align="center">Senior Software Engineer and DevOps Enthusiast</h3>
 
