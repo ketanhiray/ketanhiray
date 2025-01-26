@@ -11,8 +11,8 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- Senior Software QA Engineer.
-- Created scripts using **Java** and **Python**.
+- **Senior Software QA Engineer**.
+- Created Automation scripts  **Selenium** with **Java** and **Python**.
 - Learned and utilized **JMeter** and **Jenkins** for Load & Performance testing.
 - Set up and managed **CI/CD pipelines** with **Jenkins**.
 - Worked as a **ReactJS Developer** for a project.
