@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ketan Hiray</h1>
-<h3 align="center">Senior Software Engineer and DevOps Enthusiast</h3>
+<h3 align="center">Senior Software QA Engineer and DevOps Enthusiast</h3>
 
 <p align="left">  </p>
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=ketanhiray&label=Profile%20views&color=0e75b6&style=flat" alt="ketanhiray" />
@@ -11,18 +11,18 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- Transitioned from an Automation Engineer to a Senior Software Engineer.
+- Senior Software QA Engineer.
 - Created scripts using **Java** and **Python**.
-- Learned and utilized **JMeter** for Load & Performance testing.
+- Learned and utilized **JMeter** and **Jenkins** for Load & Performance testing.
 - Set up and managed **CI/CD pipelines** with **Jenkins**.
 - Worked as a **ReactJS Developer** for a project.
 - Led a team as a **Team Lead** for a project.
 - Worked on the **ITSM Project**.
-- Specialized in **JMeter** and **Jenkins** for  Load & Performance and automation.
-- Managed and optimized performance on **Linux** systems.
+- Knowlage of **AWS** Cloud.
+
   
 
-## 🛠️ Current Focus
+## 🛠️ Other Skill
 
 I'm currently expanding my skill set in DevOps techniques and tools, including:
 
