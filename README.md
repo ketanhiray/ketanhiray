@@ -13,10 +13,8 @@
 
 - **Senior Software Engineer - QA**.
 - Created Automation scripts using **Selenium** with **Java** and **Python**.
-- Learned and utilized **JMeter** and **Jenkins** for Load & Performance testing.
+- Created Performance Test Scripts Using **JMeter** and Run it by using **Jenkins**.
 - Set up and managed **CI/CD pipelines** with **Jenkins**.
-- Worked as a **ReactJS Developer** for a project.
-- Led a team as a **Team Lead** for a project.
 - Worked on the **ITSM Project**.
 - Knowlage of **AWS** Cloud.
 
