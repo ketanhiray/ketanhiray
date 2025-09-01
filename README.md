@@ -15,7 +15,6 @@
 - Created Automation scripts using **Selenium** with **Java** and **Python**.
 - Created Performance Test Scripts Using **JMeter** and Run it by using **Jenkins**.
 - Set up and managed **CI/CD pipelines** with **Jenkins**.
-- Worked on the **ITSM Project**.
 - Knowlage of **AWS** Cloud.
 
   
