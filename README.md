@@ -11,15 +11,12 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- **Senior Software Engineer - QA**.
-- Created Automation scripts using **Selenium** with **Java** and **Python**.
-- Created Performance Test Scripts Using **JMeter** and Run it by using **Jenkins**.
-- Set up and managed **CI/CD pipelines** with **Jenkins**.
-- Knowlage of **AWS** Cloud.
+- **Senior Software Engineer**.
+
 
   
 
-## 🛠️ Other Skill
+
 
 I'm currently expanding my skill set in DevOps techniques and tools, including:
 
